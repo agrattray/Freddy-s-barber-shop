@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Freddy's Barbershop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Freddy's Barbershop</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Barbers</a></li>
+          <li><a href="#">Booking</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <h2>The Ultimate Barber Experience</h2>
+    <p>Fresh fades, clean cuts, and real style — Freddy’s is where precision meets personality.</p>
+    <a class="cta-button" href="#">Book Now</a>
+  </section>
+
+</body>
+</html>
